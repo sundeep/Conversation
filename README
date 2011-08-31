@@ -1,0 +1,10 @@
+Initial attempt to model conversations ... 
+
+Uses:
+1) Understand 'web' chit-chat
+2) Write a reddit-bot (given a comment-thread, be able to respond)
+3) Build a turing-bot 
+
+TODO:
+1) Add properties: 'Topic', 'Sentiment', 'Participants'
+2) Add capability to extract conversations from nltk.corpus.webtext['overheard.txt']
